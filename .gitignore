@@ -1,3 +1,4 @@
 KMeansSpark/.idea/*
 KMeansSpark/target/*
 *.csv
+*.iml
