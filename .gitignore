@@ -1,2 +1,3 @@
-KMeans\.idea\*
-KMeans\project\*
+KMeansSpark/.idea/*
+KMeansSpark/target/*
+*.csv
